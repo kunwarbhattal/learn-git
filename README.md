@@ -12,7 +12,7 @@ Learn git before you get commit-ment issues!
 
 ## Pre-requisites
 - Nothing! there are no pre requirements you only need to have the will to learn and a compatible brain(If you don't have any one thing of the above...).
-- Nah, I was kidding. Well about no requirements, you do require the following:
+- Nah, I was kidding. Well, about "no-requirements", you do require the following:
     -- Git DUHHH heres the [link](https://git.scm.com/)
     -- Obviously [python 3](https://python.......). 
 
